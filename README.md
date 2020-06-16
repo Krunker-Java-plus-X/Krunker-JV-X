@@ -8,5 +8,6 @@ __________________________________
 - [TamperMonkey](https://github.com/Krunker-Java-plus-X/Krunker-JV-Hack) ✅
 - [Auto Hotkey] (NOTHING) SORRY 😢
 - [Client] (NOTHING) SORRY 😢
-- [Terminal]
+- [Terminal](https://github.com/Krunker-Java-plus-X/Krunker-JV-X)✅
+   🔝(Unlimit FPS)
 __________________________________
