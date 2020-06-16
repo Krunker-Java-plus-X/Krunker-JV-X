@@ -9,5 +9,5 @@ __________________________________
 - [Auto Hotkey] (NOTHING) SORRY 😢
 - [Client] (NOTHING) SORRY 😢
 - [Terminal](https://github.com/Krunker-Java-plus-X/Krunker-JV-X)✅
-   🔝(Unlimit FPS)
+   🔙(Unlimit FPS)
 __________________________________
